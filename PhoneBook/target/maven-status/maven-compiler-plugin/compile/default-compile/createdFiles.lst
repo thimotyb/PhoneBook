@@ -1,0 +1,4 @@
+it/unipv/phonebook/controllers/PhoneBookController.class
+it/unipv/phonebook/model/PhoneBook.class
+it/unipv/phonebook/dao/PhoneBookDAO.class
+it/unipv/phonebook/view/PhoneBookBean.class
